@@ -1,0 +1,36 @@
+img {
+    max-width: 20%;
+    max-height: 20%;
+}
+
+button {
+    background-color: rgb(21, 142, 172);
+    color: white;
+    border: none;
+    padding: 10px 10px 10px 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+button:hover {
+    background-color: rgb(167, 73, 167);
+}
+
+form {
+    padding: 0px 0px 10px 0px;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+#add-topic {
+    background-color: rgb(21, 142, 172);
+    color: white;
+    border: none;
+    padding: 10px 10px 10px 10px;
+}
+
+#add-topic:hover {
+    background-color: rgb(167, 73, 167);
+}

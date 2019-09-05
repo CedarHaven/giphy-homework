@@ -4,7 +4,7 @@ This is a gif generator that uses the GIPHY API. It loads up with a few buttons 
 ## Installation
 
 You can use Git Bash to clone the repository onto your computer by entering the following in Git Bash:
-```git clone https://github.com/CedarHaven/giphy-homework.git```
+```git clone https://github.com/juniperhaven/giphy-homework.git```
 After doing so, open the folder you've downloaded, right click 'index.html' and open in your browser of choice.
 
 Alternately, the project is hosted on Git Pages at https://juniperhaven.github.io/giphy-homework/

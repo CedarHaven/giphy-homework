@@ -7,4 +7,4 @@ You can use Git Bash to clone the repository onto your computer by entering the 
 ```git clone https://github.com/CedarHaven/giphy-homework.git```
 After doing so, open the folder you've downloaded, right click 'index.html' and open in your browser of choice.
 
-Alternately, the project is hosted on Git Pages at https://cedarhaven.github.io/giphy-homework/
+Alternately, the project is hosted on Git Pages at https://juniperhaven.github.io/giphy-homework/

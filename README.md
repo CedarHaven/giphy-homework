@@ -12,16 +12,16 @@ Alternately, the project is hosted on Git Pages at https://juniperhaven.github.i
 ## Usage
 When the page loads, you will see a number of topic buttons you can click, as well as an 'Add Topic' button:
 
-![pageload]https://imgur.com/s6IqBVh.png
+![pageload](https://imgur.com/s6IqBVh.png)
 
 If you click on a topic button, the page will load 10 gifs that are frozen, with their rating ('g' or 'pg') underneath each gif:
 
-![eeveegifs]https://imgur.com/xFid5wL.png
+![eeveegifs](https://imgur.com/xFid5wL.png)
 
 If you want to add a topic, simply enter the topic in the form:
 
-![addingtopic]https://imgur.com/WpMCVCV.png
+![addingtopic](https://imgur.com/WpMCVCV.png)
 
 Once you hit the 'add topic' button, a new button will appear with your entered topic on it:
 
-![birdbutton]https://imgur.com/mnuRZKm.png
+![birdbutton](https://imgur.com/mnuRZKm.png)
